@@ -1,0 +1,53 @@
+body{
+    font-style:bold;
+    font-family: 'Lora', serif;    
+    text-shadow: 2px 2px 4px black;
+    background: linear-gradient(#65839a, #689A65);
+    color: white;
+}
+
+p {
+    font-size: 1.5em;
+    position:relative;
+    margin-bottom: 30px;
+    padding: 6px;
+}
+
+div {
+   margin: 10px;
+}
+
+.container {
+    text-align: center;
+    padding: 250px 100px;
+    background: repeating-radial-gradient(farthest-side, #111111, #FFFFFF 2.4px);
+    font-size: 3em;
+    border: groove navy 7px;
+}
+
+a {
+    color: #FFF1BD;
+}
+
+a:hover {
+    text-shadow: 5px 5px 10px black;
+}
+
+.box1 {
+    border: ridge #E2A76F 6px;
+    padding: 10px;
+}
+
+.box2 {
+    border: ridge #C35817 6px;
+    padding: 10px;    
+}
+
+.box3 {
+    border: ridge #C0C0C0 4px;
+    text-align: center;
+}
+
+ul {
+    font-size: 1.4em;
+}

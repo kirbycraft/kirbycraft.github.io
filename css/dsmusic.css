@@ -1,0 +1,63 @@
+nav {
+    width: 100%;
+    height: 66px;
+    color:blue;
+    font-size:1.5em;
+    margin: 20px 0px;
+}
+body {
+    background:linear-gradient(#FFF1BD, #FAA08C, #C0AFF5, #CDD4DA, #fffaf0);
+    color:#111111;
+}
+h1 {
+    font-family: 'Karla', sans-serif;
+}
+
+ul li { 
+    list-style: none;
+    display: inline-block;
+    font-family: 'Karla', sans-serif;
+}
+
+ul li a{
+    display: block; 
+    min-width:100%;
+    padding: 10px 25px;
+    margin-bottom:20px;
+}
+
+ul li a:hover{
+    color: red;
+}
+
+h2 {
+    margin-top: 10px;
+    padding-top: 20px;
+}
+
+p  { 
+    font-family: 'Karla', sans-serif;
+    font-size: 1.24em;
+    
+}
+
+figure {
+  margin: 0;
+}
+
+.backgroundimage{
+    background-image: url("publicdomain.png");
+}
+
+.publicdomain {
+    text-align: center;
+}
+
+a:hover {
+    color:red;
+}
+
+main {
+    margin: 20px 0px;
+    padding: 67px 0px;
+}
