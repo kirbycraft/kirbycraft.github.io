@@ -48,6 +48,11 @@ a:hover {
     text-align: center;
 }
 
+.bigbox {
+    border: ridge #b784a7 4px;
+    text-align: center;
+}
+
 ul {
     font-size: 1.4em;
 }
